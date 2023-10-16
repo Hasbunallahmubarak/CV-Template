@@ -1,0 +1,5 @@
+@media screen and (max-width: 600px){
+	div.side-bar{width: 98%;margin: 20px 1%;}
+	div.main{width: 98%;margin: 20px 1%;}
+	.main-bar,.second{padding: 20px 10px;}
+}

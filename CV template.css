@@ -1,0 +1,31 @@
+@charset"UTF";
+*{box-sizing: border-box;margin:0px; font-family: Arial,sans-serif;}
+body{background: rgba(189,180,180,0.2);}
+h1,h3,h4,h5,h6{color:  rgba(60,60,60,0.9);}p{ color:  rgba(30,30,30,0.97);font-size: 15px; font-weight: lighter; text-align: left;margin: 10px 0px;line-height: 25px;}
+#container{width: 100%;display:block;padding: 10px; display:table-footer-group;}
+div.side-bar{width: 32%; float:left; background-color: rgb(255,255,255); box-shadow: 0px 6px 8px 1px rgba(0,0,0,0.5);margin: 1%;margin-right: 0px;}
+.avatar_hat{width: 100%;max-height: 290px;}.rel{position: relative;} .jane{position: absolute; bottom: 10px; left: 10px;font-weight: lighter;font-size: 28px;}
+div.main{width: 65%; margin: 1%; float: left;}
+.rem{padding: 0px 5px;}
+.fa{color: teal;}
+h6{font-size: 15px; padding: 20px 12px;font-weight: lighter;}
+a.email{text-decoration: none;}
+a:hover{background-color:  rgba(189,180,180,0.2); color: rgb(255,255,255);}
+hr{margin: 10px 0px; background-color: rgba(255,255,255,0.1);border-color: rgba(255,255,255,0.4);}
+h3{font-size: 20px; padding: 10px 5px;}
+h5{font-size: 16px; padding: 7px;font-weight: lighter;}
+div.per,div.perc,div.perce,div.percen{border-radius: 20px; height: 17px; background-color: rgba(205,205,205,0.5);}
+.per div,.perc div,.perce div,.percen div{background-color: teal; text-align: center; color: white;width: 90%;height: 17px; border-radius: 20px; font-size: 14px;}
+.perc div{width: 85%}.perce div{width: 75%;}.percen div{width: 50%;}
+.rem > div{padding: 10px 0px;}
+div.fir,div.firs,div.first{border-radius: 20px; height: 25px; background-color: rgba(205,205,205,0.5);}div.first{margin-bottom: 20px;}
+.first div,.fir div,.firs div{background-color: teal; text-align: center; color: white;width: 90%;height: 25px; border-radius: 20px;}
+.fir div{width: 100%;}.firs div{width: 50%}.first div{width: 30%;}
+.main-bar,.second{padding: 25px;background-color: rgb(255,255,255);box-shadow: 0px 6px 8px 1px rgba(0,0,0,0.5)}.second{margin-top: 20px;}
+h1{font-weight: lighter;padding: 20px 0px;color:  rgba(60,60,60,0.7);}
+div.top{margin: 20px 0px;}
+.top > h5{color: teal; font-weight: lighter;margin:7px 4px;}.top > h5 span{background-color: teal; color: rgb(255,255,255);padding: 4px; border-radius: 5px;}
+.middle{padding: 15px 0px;}
+.footer{padding: 30px; background-color:teal;color:white; width: 100%; text-align: center;margin-top: 10px; line-height: 25px;}
+.footer span{background-color: rgb(255,255,255); color: teal; padding: 5px;}.footer a{text-decoration: none;color: rgb(255,255,255);}
+.footer a:hover{color: teal; background-color: white;padding: 7px; border-radius: 5px;}
